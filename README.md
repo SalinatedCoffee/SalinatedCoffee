@@ -1,6 +1,6 @@
 ### Welcome!
 
-I am an aspiring software engineer with a backend technology-focused skill set. 
+I am an aspiring software engineer with a skill set focused on backend technologies. 
 
 *"If I cannot do great things, I can do small things in a great way."*  
 
